@@ -38,5 +38,15 @@ oder die etwas kleineren hier .. z.B. für Pizzasoße *
   &amp;ldquo;Passiermühle&amp;rdquo; am besten aus Edlestahl z.B. den hier*</description>
     </item>
     
+    <item>
+      <title>Contact</title>
+      <link>https://alasarda.de/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alasarda.de/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required.  Message   Send</description>
+    </item>
+    
   </channel>
 </rss>
