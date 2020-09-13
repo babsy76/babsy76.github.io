@@ -1,4 +1,6 @@
 User-agent: *
 Disallow: /some-path/
+Disallow: https://www.alasarda.de/posts/datenschutz/
+Disallow: https://www.alasarda.de/posts/impressum/
 
 
