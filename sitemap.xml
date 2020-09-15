@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://alasarda.de/linksammlung/</loc>
+    <lastmod>2020-09-15T20:59:05+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://alasarda.de/</loc>
     <lastmod>2020-09-13T21:53:05+02:00</lastmod>
   </url>
@@ -23,7 +28,7 @@
   </url>
   
   <url>
-    <loc>https://alasarda.de/posts/my-first-post/</loc>
+    <loc>https://alasarda.de/posts/2020/my-first-post/</loc>
     <lastmod>2020-08-13T21:38:51+02:00</lastmod>
   </url>
   

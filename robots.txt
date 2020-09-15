@@ -4,3 +4,5 @@ Disallow: https://www.alasarda.de/posts/datenschutz/
 Disallow: https://www.alasarda.de/posts/impressum/
 
 
+Disallow: /linksammlung/
+
